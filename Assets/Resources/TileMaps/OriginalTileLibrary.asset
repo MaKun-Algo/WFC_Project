@@ -1,0 +1,783 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92df8ee6949e7064081cb817cdbd52da, type: 3}
+  m_Name: OriginalTileLibrary
+  m_EditorClassIdentifier: 
+  tiles:
+  - Sprite: {fileID: 21300000, guid: 39b16382df2f5e84c9e5429ba39c68ef, type: 3}
+    top: 0
+    right: 1
+    down: 1
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a48880c2149bffd49a5cc9117aff273b, type: 3}
+    top: 0
+    right: 1
+    down: 1
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 5a6fc062bc59d5c4d890f276097f3ac1, type: 3}
+    top: 0
+    right: 1
+    down: 1
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a8f5a869922201f48bfc1313230664dd, type: 3}
+    top: 0
+    right: 1
+    down: 1
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 8848c27b94aa9d046af33df61d334d95, type: 3}
+    top: 0
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 8af239b164fbcd1498b46a406ab35fb8, type: 3}
+    top: 0
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a3d77436bca47f14cac434b72803800a, type: 3}
+    top: 0
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 02d714c5d4ddcdc4eb72b5bf4ee666be, type: 3}
+    top: 0
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: dff4a22786bf4104f85bb7d24b35fa00, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 39ad68d31d92f6c42b58ad9a6acad357, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 247f0d903802ccc44986935d0acd36e5, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 372dea69e12d1d9448b3952432a7736e, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: ae8605a4737d7c948b150d6da41441f7, type: 3}
+    top: 1
+    right: 1
+    down: 1
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 192beee6798a1bb408a486017c5a9636, type: 3}
+    top: 1
+    right: 1
+    down: 1
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 80cf42f54e4624e46bcf96a948b4b525, type: 3}
+    top: 1
+    right: 1
+    down: 1
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: eb9e49ecb41a08342a173648c8e6273c, type: 3}
+    top: 1
+    right: 1
+    down: 1
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 9bf940d7ba2ef6f42bcc3a7e15d5327a, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 60d52d94fe9ea63478cb8ad370480c98, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 954ebbf4ee8445144ad6ba4775a26d83, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 0b2b8998f051a1f4086bd8149d7aa967, type: 3}
+    top: 1
+    right: 0
+    down: 1
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 1
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 06ba50e19e229084e8cd4125953d63e4, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 2c337de18da54bf4e95ef5b0ea48662e, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 40a224c617a371f4b8c378ebf42a76cb, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: d9bcdaa2b320c4745b21fd6143228657, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 223bfb65b18613c4db0499ce9a69833e, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 208442c6947f1ce4fb615bb5922256d3, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 725c8a4012f8a1942aef394f741db133, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 26f95de9f3d286e42ab65a6b3ed16d55, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 0906b6f5d103f0d4497158f76ad519e6, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 57411dad29726da4994410771265baf0, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 4fd1d390c42ea404780e1560413708ce, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: d3524909c83dff749a61c94e0ba9d699, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: e5d03a8e1faee1645954d9ad54d95778, type: 3}
+    top: 0
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 353b7ad5462827c438f3d4fa9af033dc, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 836cfc1b87a574a409138b9c5497fbf9, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 3102583b42575f44a808f70dab0cea64, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: b99fd0fc705f0f24b898096a7f645799, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: e71cd5809bddc9448879229b238ef732, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 6a2355ac6bf81124a8de1d18f4e33836, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 1fcfd74f5c21808438c40145aa59d5d0, type: 3}
+    top: 0
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 0249df616d244a543a71fc332ebe6fa9, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 3a9d0b8aa376692468c156e36f0babbc, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 4eedfa96d9dbd4541a2ec832574bfd1a, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: cf8939dbf489ee349a5c9342164efd22, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: bddacb08da6b1eb478843f712cd8c322, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a029e20013e3f9449be93f918ec4a68d, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 9d9e83d491ae9cb4e9bcb8e2b617dc98, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: f67c282f67a16b247bb55c53c8b4dc12, type: 3}
+    top: 1
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 8c96410bebe16514a947aec227d5b303, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: af5bbaea84135654ca39346c3aef597f, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: e4be20fdb67648b44aaeaa30558fb70b, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 526627e944fce554c99435c3936e74e7, type: 3}
+    top: 1
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 04a22a3b57780694b926dfae1fb72069, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 56ec542888c5ebc49931b697a96defcc, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a78752301e75f6e449b1a030e104538d, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: d3d6287fd83082f4eb41189c44dce5fe, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 9208cd52acbc4024ba645bff9c2637c2, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: ad4833946ca31094ab3ddacc2046d858, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: e2bb9ffdab9ff6240b1b882ce82a41a2, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 013c45c35676a814ba9bef45aab32f30, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 3dd8381333bcf3f4d890b569dd749676, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 6fa6c9e9f8473f94784077a1df00d14f, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 645a013b15671be4fad4860bb9c1822c, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 74727c2362842ce40b4ae259c6c90305, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: ff4c46172b67dd34f9b235cd6774f22a, type: 3}
+    top: 2
+    right: 2
+    down: 1
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: ef05fe2f2370479438afa014390253fd, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 12308e719cff70f4f981b02fcefbacf6, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 37985b497f4fc504cafdf63c29511de5, type: 3}
+    top: 2
+    right: 2
+    down: 0
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 774fc6ed9b1f72548903f9a2d58cbec0, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 2
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 1e8a8b4e9c0c61a479bc72cfbd51fdbf, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 2
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 2296211982c04ad46b2520993b7c3677, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 2
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: d685a880b19f696438eaa0c2bd988071, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 2
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 84ac482e68a2122468a567e68a20f108, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: dc8ce5d47cd647c42af2575b71f820a9, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: ae389768221540a4084d671e3800a401, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: caee1e470d0a139428c0ca879f46c2d4, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: d460136d547c2db42aad73a895220297, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 92a031983d12e5840a21024473e93a68, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a8ffe71df0462fd4cab7b2cb77ff808f, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 9e7fa3b33646eb44ca33bae488537fd1, type: 3}
+    top: 2
+    right: 2
+    down: 2
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 303c83e94198edf46aa56666856b11fa, type: 3}
+    top: 2
+    right: 0
+    down: 2
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 12559cd6af783b94389b6f45ac826328, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: cac902eceb31cc845a9fddbee24e1c6a, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 3dbab00625a7bb74790dae92adb3bc42, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 72e25e3584d662c4e9a03abe21f8b212, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 1d1e98d0081b33140b78c18e2c0b8ac2, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 1
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a62de4dd9ee479940a31f37e79ce48ea, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 1
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 8f169bbacbafc774d8f991133afeb45f, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 1
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 65659b2e30b2d2b4188fe46aab54a7f4, type: 3}
+    top: 2
+    right: 1
+    down: 2
+    left: 1
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 51b7410131f560949aaaba60f1087402, type: 3}
+    top: 2
+    right: 0
+    down: 2
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: 88a1d09712e02eb4c86cd66e54853615, type: 3}
+    top: 2
+    right: 0
+    down: 2
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: a65829efa5d754844950a5db9572ed53, type: 3}
+    top: 2
+    right: 0
+    down: 2
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 2
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: dcf6d94ed1c80d14cad5df06dc0c5987, type: 3}
+    top: 0
+    right: 0
+    down: 0
+    left: 0
+    doungenObjTypeInt: 1
+    gangRaumWandInt: 3
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: dcf6d94ed1c80d14cad5df06dc0c5987, type: 3}
+    top: 0
+    right: 0
+    down: 0
+    left: 0
+    doungenObjTypeInt: 4
+    gangRaumWandInt: 3
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: dcf6d94ed1c80d14cad5df06dc0c5987, type: 3}
+    top: 0
+    right: 0
+    down: 0
+    left: 0
+    doungenObjTypeInt: 3
+    gangRaumWandInt: 3
+    rotateEulerValue: 0
+  - Sprite: {fileID: 21300000, guid: dcf6d94ed1c80d14cad5df06dc0c5987, type: 3}
+    top: 0
+    right: 0
+    down: 0
+    left: 0
+    doungenObjTypeInt: 2
+    gangRaumWandInt: 3
+    rotateEulerValue: 0
