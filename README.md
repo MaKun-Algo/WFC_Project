@@ -14,4 +14,7 @@ To run the program, download Unity version 2021.3.15f1 and open the project fold
 
 ## License
 
-All Rights Reserved. The contents of this repository are for viewing purposes only. No part of the code or any other files included in this repository may be copied, reproduced, modified, distributed, or used in any form or by any means, without the prior written permission of the owner. This includes, but is not limited to, any commercial use.
+Permission is hereby granted to download and view the contents of this repository for personal, non-commercial purposes only. This permission is granted on a temporary basis and does not include the right to retain the files after viewing. No part of the code or any other files included in this repository may be reproduced, modified, distributed, or used in any other form or by any other means without the prior written permission of the owner. This includes, but is not limited to, any commercial use.
+
+The contents of this repository are provided "as is" without any warranties, express or implied. The owner reserves the right to modify or revoke this permission at any time.
+
